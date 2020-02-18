@@ -1,0 +1,8 @@
+{
+    "name": "root/hello-composer",
+    "description": "A Simple Hello World Compser",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {}
+}
