@@ -1,6 +1,6 @@
 <?php
 
-namespace thakurDeepak\HelloWorld;
+namespace thakurdeepak\HelloWorld;
 
 class Index
 {

@@ -43,14 +43,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582007971102</updated>
-      <workItem from="1582007972579" duration="1327000" />
+      <workItem from="1582007972579" duration="1931000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="namespaces corrected!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="namespaces corrected!!!" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1921" y="200" width="800" height="677" key="#Notifications" timestamp="1582019011113">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1921" y="200" width="800" height="677" key="#Notifications/43.27.1323.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582019011113" />
+    <state x="1891" y="133" width="860" height="812" key="CommitChangelistDialog2" timestamp="1582018987255">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1891" y="133" width="860" height="812" key="CommitChangelistDialog2/43.27.1323.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582018987255" />
+    <state x="2059" y="455" width="523" height="168" key="ComposerInitDialogKey" timestamp="1582018756859">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2059" y="455" width="523" height="168" key="ComposerInitDialogKey/43.27.1323.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582018756859" />
+    <state x="2094" y="459" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582018766859">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2094" y="459" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/43.27.1323.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582018766859" />
     <state x="2051" y="453" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1582018407005">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
