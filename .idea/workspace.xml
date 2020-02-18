@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a758942-6dbc-4f89-b2d1-3c72dfbfb752" name="Default Changelist" comment="" />
+    <list default="true" id="7a758942-6dbc-4f89-b2d1-3c72dfbfb752" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +17,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XyATsyjBn6oIIpFESqsP5P2LiU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -34,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582007971102</updated>
-      <workItem from="1582007972579" duration="139000" />
+      <workItem from="1582007972579" duration="1327000" />
     </task>
     <servers />
   </component>
@@ -42,9 +51,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2051" y="453" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1582007993209">
+    <state x="2051" y="453" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1582018407005">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="2051" y="453" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/43.27.1323.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582007993209" />
+    <state x="2051" y="453" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/43.27.1323.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582018407005" />
   </component>
 </project>
